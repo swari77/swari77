@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+Student;Java+%26+DSA+Learner;Consistent+Coder;Future+Software+Engineer🚀&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-🌱 B.Tech Student | Java & DSA Learner  
-<br>
-🚀 Consistently learning and building every day
-</p>
-
 ---
 
 <h2 align="center">🔥 GitHub Consistency</h2>
