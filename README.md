@@ -9,7 +9,7 @@
 <h2 align="center">🔥 Consistency Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swari77&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=swari77&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 
