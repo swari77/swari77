@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Swarnima 
+
+## 🔥 My GitHub Streak 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=swari77)](https://git.io/streak-stats)
+
+
 
 <!--
 **swari77/swari77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
