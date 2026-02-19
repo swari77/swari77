@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Swarnima Chaurasia</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+Student;Java+%26+DSA+Learner;Consistent+Coder;Future+Software+Engineer🚀&center=true&width=500&height=45">
+</p>
 
 <p align="center">
 🌱 B.Tech Student | Java & DSA Learner  
