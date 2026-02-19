@@ -1,15 +1,19 @@
 
-  <h1 align="center">
-    Hi 👋, I'm Swarnima Chaurasia
-  </h1>
+<h1 align="center">Hi 👋, I'm Swarnima Chaurasia</h1>
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech%20Student;Java%20%26%20%dsa%20Learner;Future%20Software%20Engineer🚀;Consistent%20Learner&center=true&width=500&height=50">"
- </p> 
+<p align="center">
+🌱 B.Tech Student | Java & DSA Learner  
+<br>
+🚀 Consistently learning and building every day
+</p>
 
-## 🔥 GitHub Streak 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=swari77)](https://git.io/streak-stats)
+<h2 align="center">🔥 GitHub Consistency</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swari77&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
