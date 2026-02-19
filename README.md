@@ -12,11 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=swari77&theme=radical&hide_border=true&border_radius=15&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swari77&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
