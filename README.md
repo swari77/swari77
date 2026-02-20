@@ -27,7 +27,11 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=swari77&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+<h2 align="center">🐍 Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swari77/snake/output/github-contribution-grid-snake.svg"/>
+</p>
 
 
 
