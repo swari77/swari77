@@ -6,11 +6,8 @@
 
 ---
 
-<h2 align="center">🔥 My Coding Streak</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swari77&theme=radical&hide_border=true&border_radius=15&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
-</p>
+
 
 <h2 align="center">📈 Contribution Activity</h2>
 
