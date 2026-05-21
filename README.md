@@ -9,11 +9,7 @@
 
 
 
-<h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swari77&theme=react-dark&hide_border=true"/>
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
